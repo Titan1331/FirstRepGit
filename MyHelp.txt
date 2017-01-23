@@ -1,4 +1,13 @@
 # i used "nano" to create a new file in the repository
 >nano MyHelp.txt
+# i used again "nano.MyHelp.txt" to read and modifie the file
+# add the file
+> git add MyHelp.txt
+#and then commit it
+> git commit -m "my changes"
 
+#once i commited the file i added it in origin and push
+>git remote add origin https://github.com/t***1/FirstRepGit
+>git push -u origin master
+!notice that was in the git repository.
 
